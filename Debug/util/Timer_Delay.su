@@ -1,0 +1,3 @@
+../util/Timer_Delay.c:14:6:TimerDelay_Init	32	static
+../util/Timer_Delay.c:48:6:delay_us	16	static
+../util/Timer_Delay.c:54:6:delay_ms	16	static

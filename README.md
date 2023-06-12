@@ -1,5 +1,5 @@
 # Water Level Monitoring and Control using STM32F407 MCU
-* An embedded system that can measure and contol the water level in a container
+An embedded system that can measure and contol the water level in a container
 
 ## Basic Functionality
 - An embedded system that can measure the water level in a container. Multiple types of sensors is used for this project. The system is able to display the current water level (on LCD) in millimeters (mm). 
